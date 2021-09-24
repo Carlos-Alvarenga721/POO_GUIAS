@@ -1,0 +1,7 @@
+C:\Users\ialva\source\repos\POO10L\POO10L\bin\Debug\POO10L.exe.config
+C:\Users\ialva\source\repos\POO10L\POO10L\bin\Debug\POO10L.exe
+C:\Users\ialva\source\repos\POO10L\POO10L\bin\Debug\POO10L.pdb
+C:\Users\ialva\source\repos\POO10L\POO10L\obj\Debug\POO10L.csprojAssemblyReference.cache
+C:\Users\ialva\source\repos\POO10L\POO10L\obj\Debug\POO10L.csproj.CoreCompileInputs.cache
+C:\Users\ialva\source\repos\POO10L\POO10L\obj\Debug\POO10L.exe
+C:\Users\ialva\source\repos\POO10L\POO10L\obj\Debug\POO10L.pdb
